@@ -3,5 +3,5 @@
 
 This chat application allows real-time communication between users using Socket.io. It features user join/leave notifications and message broadcasting across connected clients.
 
-![Chat App Screenshot](![chat app](https://github.com/user-attachments/assets/ae232d87-f028-4ad9-8a96-4164adbcf8a4)
-)
+![Chat App ](https://github.com/user-attachments/assets/ae232d87-f028-4ad9-8a96-4164adbcf8a4)
+
